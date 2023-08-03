@@ -1,4 +1,5 @@
 
 cache/
-resources/[cfx-default]/
-resources/[defaultmapss]/
+resources/\[defaultmaps\]/
+resources/\[cfx-default\]/
+
